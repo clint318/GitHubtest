@@ -5,7 +5,7 @@ public class SaySomething {
 	public String something() {
 		
 		System.out.println("Saying something.");
-		return "Something said.";
+		return "Saying whatever I want.";
 		
 	}
 
