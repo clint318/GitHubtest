@@ -5,7 +5,7 @@ public class SaySomething {
 	public String something() {
 		
 		System.out.println("Saying something else.");
-		return "Merge this branch into master from a branch.";
+		return "Making another change.";
 		
 	}
 
