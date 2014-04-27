@@ -5,7 +5,7 @@ public class SaySomething {
 	public String something() {
 		
 		System.out.println("Saying something.");
-		return "Using github app.";
+		return "Merge this branch into master.";
 		
 	}
 
