@@ -5,7 +5,7 @@ public class App {
     public static void main( String[] args ) {
     	
     	SaySomething saySomething = new SaySomething();
-        System.out.println(saySomething.something());
+        System.out.println(saySomething.something("Yowsa"));
         
     }
     

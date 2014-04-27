@@ -2,10 +2,10 @@ package com.clint.mystuff;
 
 public class SaySomething {
 	
-	public String something() {
+	public String something(String thisString) {
 		
-		System.out.println("Saying something else.");
-		return "Making another change.";
+		System.out.println(thisString);
+		return "Making a branch change to put into master again, again.";
 		
 	}
 
